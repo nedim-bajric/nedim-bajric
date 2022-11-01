@@ -5,7 +5,7 @@
 I am a Software Engineering student at the Polytechnic Faculty of the University of Zenica and a Software developer with over a two year of experience.
 </br>
 I am experienced in developing web applications using JavaScript / Typescript. My favorite tool that I am using is NextJS. Also, I have experience with NodeJS with Express / Nest. Most of the time I spent developing business applications, but also I worked on the modern animated design and created applications that are not everyday and boring.
-</b>
+</br>
 Top skills :
 </br>
 ✅JavaScript <br/>
