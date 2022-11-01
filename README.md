@@ -8,17 +8,17 @@ I am experienced in developing web applications using JavaScript / Typescript. M
 </b>
 Top skills :
 </br>
-✅JavaScript
-✅TypeScript
-✅ReactJS
-✅React Native
-✅NextJS
-✅NodeJS
-✅ExpressJS
-✅NestJS
+✅JavaScript <br/>
+✅TypeScript <br />
+✅ReactJS <br />
+✅React Native <br />
+✅NextJS <br />
+✅NodeJS <br />
+✅ExpressJS <br />
+✅NestJS <br />
 </br>
 I aim to always provide reliable, consistent, and HIGH-LEVEL solutions. I am looking forward to working together!</p>
 
-- 📫 How to reach me **codenedim@gmail.com**
+📫 How to reach me **codenedim@gmail.com**
 
 
