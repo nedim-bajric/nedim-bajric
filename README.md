@@ -6,17 +6,7 @@ I am a Software Engineering student at the Polytechnic Faculty of the University
 </br>
 I am experienced in developing web applications using JavaScript / Typescript. My favorite tool that I am using is NextJS. Also, I have experience with NodeJS with Express / Nest. Most of the time I spent developing business applications, but also I worked on the modern animated design and created applications that are not everyday and boring.
 </br>
-Top skills :
-</br>
-✅JavaScript <br/>
-✅TypeScript <br />
-✅ReactJS <br />
-✅React Native <br />
-✅NextJS <br />
-✅NodeJS <br />
-✅ExpressJS <br />
-✅NestJS <br />
-</br>
+
 I aim to always provide reliable, consistent, and HIGH-LEVEL solutions. I am looking forward to working together!</p>
 
 📫 How to reach me **codenedim@gmail.com**
