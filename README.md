@@ -6,7 +6,9 @@
 </br>
 <span>&#8226;</span> Experienced in developing web and mobile applications
 </br>
-<span>&#8226;</span> Main languages are Javascript / Typescript and Java
+<span>&#8226;</span> Main languages are Javascript / Typescript
+<br />
+<span>&#8226;</span> Main tools are Reactjs / Nextjs, Node with Express / Nest, MongoDB / PostgreSql
 <br />
 
 I aim to always provide reliable, consistent, and HIGH-LEVEL solutions. I am looking forward to working together!</p>
