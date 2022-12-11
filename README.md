@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Bosnia and Herzegovina</h3>
 
 <p>
-<span>&#8226;</span> Ungraduated software engineer with over a two year of experience
+<span>&#8226;</span> Ungraduated software engineer with over two year of experience
 </br>
 <span>&#8226;</span> Experienced in developing web and mobile applications
 </br>
